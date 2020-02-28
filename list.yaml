@@ -2,6 +2,8 @@
 # Please order list alphanumerically  (Base24 schemes at the top)
 one-dark: https://github.com/Base24/base24-one-dark-scheme
 one-light: https://github.com/Base24/base24-one-light-scheme
+dracula24: https://github.com/Base24/base24-dracula-scheme
+
 
 atelier: https://github.com/atelierbram/base16-atelier-schemes
 atlas: https://github.com/ajlende/base16-atlas-scheme
