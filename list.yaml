@@ -1,10 +1,13 @@
 
 # Please order list alphanumerically  (Base24 schemes at the top)
 brogrammer: https://github.com/Base24/base24-brogrammer-scheme
+chalk: https://github.com/Base24/base24-chalk-scheme
 dracula24: https://github.com/Base24/base24-dracula-scheme
 espresso: https://github.com/Base24/base24-espresso-scheme
+flat: https://github.com/Base24/base24-flat-scheme
 framer: https://github.com/Base24/base24-framer-scheme
 github: https://github.com/Base24/base24-github-scheme
+hardcore: https://github.com/Base24/base24-hardcore-scheme
 one-dark: https://github.com/Base24/base24-one-dark-scheme
 one-light: https://github.com/Base24/base24-one-light-scheme
 
@@ -26,7 +29,6 @@ edge: https://github.com/cjayross/base16-edge-schemes
 fruit-soda: https://github.com/jozip/base16-fruit-soda-scheme
 gigavolt: https://github.com/Whillikers/base16-gigavolt-scheme
 gruvbox: https://github.com/dawikur/base16-gruvbox-scheme
-hardcore: https://github.com/callerc1/base16-hardcore-scheme
 helios: https://github.com/reyemxela/base16-helios-scheme
 heetch: https://github.com/tealeg/base16-heetch-scheme
 horizon: https://github.com/michael-ball/base16-horizon-scheme
