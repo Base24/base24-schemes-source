@@ -2,7 +2,7 @@
 # Please order list alphanumerically  (Base24 schemes at the top)
 brogrammer: https://github.com/Base24/base24-brogrammer-scheme
 chalk: https://github.com/Base24/base24-chalk-scheme
-dracula24: https://github.com/Base24/base24-dracula-scheme
+dracula: https://github.com/Base24/base24-dracula-scheme
 espresso: https://github.com/Base24/base24-espresso-scheme
 flat: https://github.com/Base24/base24-flat-scheme
 framer: https://github.com/Base24/base24-framer-scheme
@@ -25,7 +25,6 @@ classic: https://github.com/detly/base16-classic-scheme
 codeschool: https://github.com/blockloop/base16-codeschool-scheme
 cupertino: https://github.com/Defman21/base16-cupertino
 default: https://github.com/chriskempson/base16-default-schemes
-dracula: https://github.com/dracula/base16-dracula-scheme
 edge: https://github.com/cjayross/base16-edge-schemes
 fruit-soda: https://github.com/jozip/base16-fruit-soda-scheme
 gigavolt: https://github.com/Whillikers/base16-gigavolt-scheme
